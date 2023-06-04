@@ -1,0 +1,6 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"POPULARITY";"SPICEPREFIX";
+"1";"";"CON6-COMB";"CON6-COMB";"CON1";"";"";"";
+"1";"";"NT3H2111W0FTT2";"TSSOP8";"U1";"";"";"";
+"2";"0";"R-EU_R0603";"R0603";"R1, R2";"RESISTOR, European symbol";"70";"R";
+"1";"10n";"C-EUC0603K";"C0603K";"C1";"CAPACITOR, European symbol";"30";"C";
+"1";"NP";"C-EUC0603K";"C0603K";"C3";"CAPACITOR, European symbol";"30";"C";
